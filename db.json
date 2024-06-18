@@ -5484,16 +5484,21 @@
   ],
   "favorites": [
     {
-      "artworkId": 145244,
-      "id": 1
-    },
-    {
-      "artworkId": 94841,
-      "id": 3
-    },
-    {
       "artworkId": 134057,
       "id": 4
+    },
+    {
+      "artworkId": 145244,
+      "id": 5
+    },
+    {
+      "artworkId": 149858,
+      "id": 6
+    },
+    {
+      "artworkId": 5569,
+      "id": 7
     }
-  ]
+  ],
+  "comments": []
 }
