@@ -553,357 +553,6 @@
       "timestamp": "2024-06-14T10:20:30-05:00"
     },
     {
-      "id": 94841,
-      "api_model": "artworks",
-      "api_link": "https://api.artic.edu/api/v1/artworks/94841",
-      "is_boosted": false,
-      "title": "The Song of the Lark",
-      "alt_titles": null,
-      "thumbnail": {
-        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD02MTk5OEI+NEU/NEY/N0tDN0VDOUZDOlJPPVRNQFpQQFlTQWlgVnt2YpN6YpKAZauYc6mgftK3hNa1hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDRB0eMwzXIEiFIAiTAQRggAOw==",
-        "width": 4715,
-        "height": 6109,
-        "alt_text": "A work made of oil on canvas."
-      },
-      "main_reference_number": "1894.1033",
-      "has_not_been_viewed_much": false,
-      "boost_rank": null,
-      "date_start": 1884,
-      "date_end": 1884,
-      "date_display": "1884",
-      "date_qualifier_title": "",
-      "date_qualifier_id": null,
-      "artist_display": "Jules Adolphe Breton\nFrench, 1827-1906",
-      "place_of_origin": "France",
-      "description": "<p>A lone peasant girl pauses her work to listen to a lark singing in the distance. Her emotional response to this moment of natural beauty is accentuated by the glow of the sun rising behind her, suffusing the landscape with golden light.</p>\n<p>Jules Breton specialized in scenes of rustic life in the countryside. Having been raised in the rural village of Courrières in northern France, he admired the people living there for their resourcefulness and connection to nature and gained immense popularity by painting them in his idealized style.</p>\n",
-      "short_description": "This painting by Jules Adolphe Breton was among the first to enter the Art Institute's collection when the museum opened in 1893. It quickly became one of the most popular paintings at the museum. By the 1920s, reproductions were hanging on classroom walls across the United States. In 1934, it was named “America’s Best Loved Picture” in a contest sponsored by the <em>Chicago Daily News</em>.",
-      "dimensions": "110.6 × 85.8 cm (43 1/2 × 33 3/4 in.); Framed: 142.3 × 116.9 cm (56 × 46 in.)",
-      "dimensions_detail": [
-        {
-          "depth": null,
-          "width": 85,
-          "height": 110,
-          "diameter": null,
-          "clarification": null
-        },
-        {
-          "depth": null,
-          "width": 116,
-          "height": 142,
-          "diameter": null,
-          "clarification": "Framed"
-        }
-      ],
-      "medium_display": "Oil on canvas",
-      "inscriptions": "Inscribed at lower left: Jules Breton / Courrieres 1884",
-      "credit_line": "Henry Field Memorial Collection",
-      "catalogue_display": null,
-      "publication_history": "“Drift of the Dog Days,” The Collector 4, 16 (1893), p. 247.\n\n“Art Institute of Chicago: II – Modern Paintings: The Henry Field Collection,” Art Amateur 21, 1 (1894), p. 19. \n\n“The Henry Field Memorial Collection,” Art Amateur 31, 6 (1894), p. 115. \n\nRoger Marx, “Le Salon de 1885,” Le Voltaire (May 1, 1885), p. 1.\n\nJ. Noulens, “Le Salon de 1885,” La Presse (May 1, 1885), p. 3.\n\n\"Pictures at the Salon,\" New York Times (May 18, 1885), p. 2.\n\nHenry Havard, “Le Salon,” Le Siècle (May 19, 1885), p. 1.\n\nMario Porth, “Voyage au pays des peintres,” Le Reveil (May 23, 1885), p. 2. \n\nHenry Fouquier, “Le Salon de 1885,” Le Dix-neuvième siècle (May 26, 1885), p. 2.\n\nHerni Chantavoine, “Le Salon de 1855,” La Nouvelle Revue 34 (May 1885), pp. 591-92.\n\nAndré Michel, “Le Salon de 1885,” Gazette des Beaux-Arts ser. 2, 31 (June 1885), p. 490.\n\nG. Dumas, Catalogue illustré du Salon (Paris, 1885), cat. 369.\n\nHenry Havard, Salon de 1885 (Paris, 1885), p. 44.\n\nCharles Ponsonaille, “Le Salon de 1885,” L’Artiste 1 (1885), pp. 347-8.\n\nThéodore Véron, Dictionnaire Véron (Paris, 1885), p. 88.\n\nWilliam M. R. French, “The Permanent Collections in the Museum of the Art Institute of Chicago,” Brush and Pencil 1, 4 (1898), pp. 81, 84 (ill.). \n\nBrush and Pencil 3 (1898), p. 287 (ill.).\n\n“Chicago, ILL.: The Art Institute of Chicago,” in American Art Annual 1898 (London, 1899), p. 140, no. 1.\n\nMarius Vachon, Jules Breton (Paris, 1899), pp. 129, 145.\n\nFrederick Clifton Pierce, Field Genealogy, vol. 2 (Chicago: Hammond Press, 1901), pp. 709, 711, no. 1 (ill.). \n\nF. E. Cluit, “The Art of Jules Breton,” Brush and Pencil 18 (1906), p. 108 (ill.).\n\nThe Art Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Chicago, 1925), p. 58 (ill.).\n\nVincent van Gogh, The Letters of Vincent van Gogh to His Brother vol. 2 (1927), p. 488.\n\nHave You Seen America’s Best Loved Picture ‘The Song of the Lark’? (Chicago, 1934), n.p., ill.\t\n\nLos Angeles Art Bulletin (March, 1935), ill.\n\nCharles Fabens Kelley, “Chicago: Record Years,” The Art News 51, 4 (1952), p. 106.\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (Chicago, 1956), p. 33.\n\nThe Art Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), p. 58.\n\nFrederick A. Sweet, “Great Chicago Collectors,” Apollo 84 (September 1966), pp. 190-91, fig. 3.  \n\nJohn Maxon, The Art Institute of Chicago (New York, 1970), pp. 90-94.\n\nMichael Quick, “Homer in Virginia,” Los Angeles County Museum of Art Bulletin 26 (1978), pp. 76, 78, 81, fig. 29.\n\nRichard Brettell, French Salon Artists 1800-1900 (Chicago, 1987), pp. 106-109 (ill.), 117. \n\nLinda Nochlin, “Women, Art, and Power,” in Visual Theory: Painting and Interpretation (New York, 1991), p. 30.\n\nMaureen Ryan, “The Peasant’s Bonds to Gaul, God, Land and Nature: The Myth of the Rural and Jules Breton’s Le Chant de l’alouette,” RACAR Revue d’art canadienne/Canadian Art Review 19, 1-2 (1992), pp. 79-96, fig. 1.\n\nStephen Eskilson, “Contesting the Canon(s): ‘The Song of the Lark’ and the Art Institute of Chicago,” Journal of the History of Collections 15, 2 (2003), pp. 257-265, fig. 1. \n\nJanis P. Stout, “‘The Nude Had Descended the Staircase’: Katherine Anne Porter Looks at Willa Cather Looking at Modern Art,” in Sarah Cheney Watson and Ann Moseley, eds., Willa Cather and Aestheticism: From Romanticism to Modernism (Madison: Fairleigh Dickinson University Press and Lanham, Maryland: Rowman & Littlefield, 2012), p. 160.",
-      "exhibition_history": "Paris, Salon, 1885, cat. 369.\n\nChicago, Worlds Columbian Exhibition: Loan Collection: Foreign Masterpieces Owned in the United States, 1893, no. 3047.  \n\nHartford, Wadsworth Atheneum, An Exhibition of Literature and Poetry in Painting Since 1850, January-February, 1933, cat. 8 (ill.).  \n\nLos Angeles Art Association, The Song of the Lark by Jules Breton Lent by the Art Institute of Chicago, March 1935, no cat. \n\nDallas, Museum of Fine Arts, June 1935, no cat.   \n\nDenver Art Museum, Spring Quarterly Exhibition: Man at Work, March 2-April 27, 1952, no cat.\n\nLos Angeles, Municipal Art Gallery, Old Favorites Revisited, October 6-November 8, 1959.  \n\nMuskegon, Hackley Art Gallery, November 1-30, 1955. \n\nWashington, DC, National Collection of Fine Arts (Smithsonian Institution), American Art in the Barbizon Mood, January 23-April 20, 1975, cat. 1 (ill.). \n\nOmaha, Joslyn Art Museum, Jules Breton and the French Rural Tradition, November 6, 1982-January 2, 1983, cat. 39 (ill.), traveled to Memphis, Dixon Gallery and Gardens, January 16-March 6, 1983 and Williamstown, Sterling and Francine Clark Institute, April 2-June 5, 1983.\n\nTokyo, Seibu Museum of Art, The Impressionist Tradition: Masterpieces from the Art Institute of Chicago, October 18-December 17, 1985 cat. 12 (ill.), traveled to Fukuoka Art Museum, January 5-February 2, 1986 and Kyoto Municipal Museum of Art, March 4-April 13, 1986. \n\nNorfolk, Va., Chrysler Museum, Paris 1889: American Artists at the Universal Exposition, September 29-December 17, 1989, no cat. no. (ill.); Philadelphia Academy of the Fine Arts, February 1-April 15, 1990; Memphis Brooks Museum of Art, May 6-July 15; New York Historical Society, September 5-November 15, 1990. \n\nThe Art Institute of Chicago, Chicago’s Dream A World’s Treasure: The Art Institute of Chicago 1893-1993, November 1-January 9, 1994, no cat. no., figs. 10, 11, pl. 5. \n\nNiigata Prefectural Museum of Modern Art, Masterworks of Modern Art from The Art Institute of Chicago, April 20-May 29, 1994, cat. 10 (ill.), traveled to Nagoya, Aichi Prefectural Museum of Art, June 10-July 1994 and Yokohama Museum of Art, August 6-September 25, 1994. \n\nYamanahsi Prefectural Museum, Return to Nature: J.F. Millet, the Barbizon Artists, and the Renewal of the Rural Tradition, September 26-December 12, 1998, cat. VI-6 (ill.). \n\nMusée des Beaux-Arts d'Arras, Jules Breton: La chanson des blés, March 16-June 2, 2002, cat. 95 (ill.), traveled to Quimper, France, Musée des Beaux-Arts, June 15-September 8, 2002 and Dublin, National Gallery of Ireland, September 23-December 15, 2002, fig. 175 (cat. 95).\n\nChicago, David and Alfred Smart Museum of Art, Looking and Listening in Nineteenth-Century France,  November 6, 2007—March 23, 2008, no. 4 (ill.), fig. 37.\n\nLincoln, Nebraska, Sheldon Museum of Art, Visual Cather: The Writer's Pictorial Imagination, May 19-August 30, 2015, no cat.\n\nWorcester, Worcester Art Museum, Coming Away: Winslow Homer in England, November 11, 2018-February 4, 2018 and Milwaukee, Milwaukee Art Museum, March 1-May 20, 2018.",
-      "provenance_text": "Bought from the artist by George A. Lucas, Paris, for Samuel P. Avery in 1885 [this and the following information according to Omaha 1982-83]; sold to Henry Field (died 1890), Chicago, 1885; by descent to his wife, Mrs. Florence Lathrop Field; transferred to the Art Institute in October 1894; given to the Art Institute, 1916.",
-      "edition": null,
-      "publishing_verification_level": "Web Cataloged",
-      "internal_department_id": 14,
-      "fiscal_year": 1917,
-      "fiscal_year_deaccession": null,
-      "is_public_domain": true,
-      "is_zoomable": true,
-      "max_zoom_window_size": -1,
-      "copyright_notice": null,
-      "has_multimedia_resources": true,
-      "has_educational_resources": false,
-      "has_advanced_imaging": false,
-      "colorfulness": 30.922,
-      "color": {
-        "h": 5,
-        "l": 67,
-        "s": 94,
-        "percentage": 0.0011949300205527963,
-        "population": 11
-      },
-      "latitude": 41.8798829941714,
-      "longitude": -87.6234423938481,
-      "latlon": "41.879882994171,41.879882994171",
-      "is_on_view": true,
-      "on_loan_display": null,
-      "gallery_title": "Gallery 222",
-      "gallery_id": 2147483607,
-      "nomisma_id": null,
-      "artwork_type_title": "Painting",
-      "artwork_type_id": 1,
-      "department_title": "Painting and Sculpture of Europe",
-      "department_id": "PC-10",
-      "artist_id": 33753,
-      "artist_title": "Jules Adolphe Breton",
-      "alt_artist_ids": [],
-      "artist_ids": [
-        33753
-      ],
-      "artist_titles": [
-        "Jules Adolphe Breton"
-      ],
-      "category_ids": [
-        "PC-10"
-      ],
-      "category_titles": [
-        "Painting and Sculpture of Europe"
-      ],
-      "term_titles": [
-        "oil on canvas",
-        "painting",
-        "european painting"
-      ],
-      "style_id": null,
-      "style_title": null,
-      "alt_style_ids": [],
-      "style_ids": [],
-      "style_titles": [],
-      "classification_id": "TM-66",
-      "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-54"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-54"
-      ],
-      "classification_titles": [
-        "oil on canvas",
-        "painting",
-        "european painting"
-      ],
-      "subject_id": null,
-      "alt_subject_ids": [],
-      "subject_ids": [],
-      "subject_titles": [],
-      "material_id": null,
-      "alt_material_ids": [],
-      "material_ids": [],
-      "material_titles": [],
-      "technique_id": null,
-      "alt_technique_ids": [],
-      "technique_ids": [],
-      "technique_titles": [],
-      "theme_titles": [],
-      "image_id": "48b2de88-ba73-8e19-f448-d1cef4a1c847",
-      "alt_image_ids": [],
-      "document_ids": [
-        "49fe2e30-c792-11ea-7750-082f2e9bfc2d"
-      ],
-      "sound_ids": [
-        "49fe2e30-c792-11ea-7750-082f2e9bfc2d"
-      ],
-      "video_ids": [],
-      "text_ids": [],
-      "section_ids": [],
-      "section_titles": [],
-      "site_ids": [],
-      "suggest_autocomplete_all": [
-        {
-          "input": [
-            "1894.1033"
-          ],
-          "contexts": {
-            "groupings": [
-              "accession"
-            ]
-          }
-        },
-        {
-          "input": [
-            "The Song of the Lark"
-          ],
-          "weight": 101654,
-          "contexts": {
-            "groupings": [
-              "title"
-            ]
-          }
-        }
-      ],
-      "source_updated_at": "2024-06-11T13:52:48-05:00",
-      "updated_at": "2024-06-16T23:18:59-05:00",
-      "timestamp": "2024-06-17T03:36:39-05:00"
-    },
-    {
-      "id": 48,
-      "api_model": "artworks",
-      "api_link": "https://api.artic.edu/api/v1/artworks/48",
-      "is_boosted": false,
-      "title": "Mower Honing a Scythe",
-      "alt_titles": null,
-      "thumbnail": {
-        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJSIdJ+TfrGlkrarmritmruvm7yxoMa7qMK7rci+q8nBs8rCtc7FttHIt9LIt9DHuNPMwdTNwtjQwdvSw+Da0OHb0eDb0uHb0uDc0+Pe1uTe1+Xg2eXh2ubj2+fj2+bj3Ojk3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQNCFUrFgNh5HwtB4cDIHwWAi4WgIgECB0fFAEIpF5BMEADs=",
-        "width": 3000,
-        "height": 2165,
-        "alt_text": "A work made of etching on ivory china paper laid down on white wove paper (china paper collé)."
-      },
-      "main_reference_number": "1887.374",
-      "has_not_been_viewed_much": false,
-      "boost_rank": null,
-      "date_start": 1878,
-      "date_end": 1878,
-      "date_display": "1878",
-      "date_qualifier_title": "Made",
-      "date_qualifier_id": 4,
-      "artist_display": "Jules Bastien-Lepage\nFrench, 1848-1884",
-      "place_of_origin": "France",
-      "description": null,
-      "short_description": null,
-      "dimensions": "Plate: 19.7 × 25.8 cm (7 13/16 × 10 3/16 in.); Sheet: 25.6 × 35.4 cm (10 1/8 × 13 15/16 in.)",
-      "dimensions_detail": [
-        {
-          "depth": null,
-          "width": 25,
-          "height": 19,
-          "diameter": null,
-          "clarification": "Plate"
-        },
-        {
-          "depth": null,
-          "width": 35,
-          "height": 25,
-          "diameter": null,
-          "clarification": "Sheet"
-        }
-      ],
-      "medium_display": "Etching on ivory China paper laid down on white wove paper (China paper collé)",
-      "inscriptions": null,
-      "credit_line": "Elizabeth Hammond Stickney Collection",
-      "catalogue_display": "<p>Beraldi 2</p>",
-      "publication_history": null,
-      "exhibition_history": null,
-      "provenance_text": null,
-      "edition": null,
-      "publishing_verification_level": "Web Basic",
-      "internal_department_id": 3,
-      "fiscal_year": null,
-      "fiscal_year_deaccession": null,
-      "is_public_domain": true,
-      "is_zoomable": true,
-      "max_zoom_window_size": -1,
-      "copyright_notice": null,
-      "has_multimedia_resources": false,
-      "has_educational_resources": false,
-      "has_advanced_imaging": false,
-      "colorfulness": 15.1131,
-      "color": {
-        "h": 38,
-        "l": 49,
-        "s": 32,
-        "percentage": 0.002341262408690766,
-        "population": 12
-      },
-      "latitude": null,
-      "longitude": null,
-      "latlon": null,
-      "is_on_view": false,
-      "on_loan_display": null,
-      "gallery_title": null,
-      "gallery_id": null,
-      "nomisma_id": null,
-      "artwork_type_title": "Print",
-      "artwork_type_id": 18,
-      "department_title": "Prints and Drawings",
-      "department_id": "PC-13",
-      "artist_id": 1771,
-      "artist_title": "Jules Bastien-Lepage",
-      "alt_artist_ids": [],
-      "artist_ids": [
-        1771
-      ],
-      "artist_titles": [
-        "Jules Bastien-Lepage"
-      ],
-      "category_ids": [
-        "PC-13"
-      ],
-      "category_titles": [
-        "Prints and Drawings"
-      ],
-      "term_titles": [
-        "etching",
-        "paper (fiber product)",
-        "print",
-        "prints and drawing"
-      ],
-      "style_id": null,
-      "style_title": null,
-      "alt_style_ids": [],
-      "style_ids": [],
-      "style_titles": [],
-      "classification_id": "TM-18",
-      "classification_title": "etching",
-      "alt_classification_ids": [
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_ids": [
-        "TM-18",
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_titles": [
-        "etching",
-        "print",
-        "prints and drawing"
-      ],
-      "subject_id": null,
-      "alt_subject_ids": [],
-      "subject_ids": [],
-      "subject_titles": [],
-      "material_id": "TM-2982",
-      "alt_material_ids": [],
-      "material_ids": [
-        "TM-2982"
-      ],
-      "material_titles": [
-        "paper (fiber product)"
-      ],
-      "technique_id": null,
-      "alt_technique_ids": [],
-      "technique_ids": [],
-      "technique_titles": [],
-      "theme_titles": [],
-      "image_id": "a302e9f4-7c4b-86c5-524f-594a42b7b182",
-      "alt_image_ids": [],
-      "document_ids": [],
-      "sound_ids": [],
-      "video_ids": [],
-      "text_ids": [],
-      "section_ids": [],
-      "section_titles": [],
-      "site_ids": [],
-      "suggest_autocomplete_all": [
-        {
-          "input": [
-            "1887.374"
-          ],
-          "contexts": {
-            "groupings": [
-              "accession"
-            ]
-          }
-        },
-        {
-          "input": [
-            "Mower Honing a Scythe"
-          ],
-          "weight": 139584,
-          "contexts": {
-            "groupings": [
-              "title"
-            ]
-          }
-        }
-      ],
-      "source_updated_at": "2022-09-21T19:18:44-05:00",
-      "updated_at": "2023-12-21T00:56:21-06:00",
-      "timestamp": "2024-06-17T03:35:56-05:00"
-    },
-    {
       "id": 149858,
       "api_model": "artworks",
       "api_link": "https://api.artic.edu/api/v1/artworks/149858",
@@ -5488,17 +5137,106 @@
       "id": 4
     },
     {
-      "artworkId": 145244,
-      "id": 5
-    },
-    {
       "artworkId": 149858,
       "id": 6
     },
     {
       "artworkId": 5569,
       "id": 7
+    },
+    {
+      "artworkId": 109819,
+      "id": 8
+    },
+    {
+      "artworkId": 61608,
+      "id": 10
+    },
+    {
+      "artworkId": 15257,
+      "id": 11
+    },
+    {
+      "artworkId": 57211,
+      "id": 12
+    },
+    {
+      "artworkId": 70035,
+      "id": 14
+    },
+    {
+      "artworkId": 24306,
+      "id": 15
     }
   ],
-  "comments": []
+  "comments": [
+    {
+      "text": "oh wow!\n",
+      "pseudonym": "jean",
+      "artworkId": "134057",
+      "id": 1
+    }
+  ],
+  "creations": [
+    {
+      "id": 1,
+      "artwoorkId": 130457,
+      "title": "My Custom Tile",
+      "color": {
+        "h": 5,
+        "l": 50,
+        "s": 59,
+        "percentage": 0.032873003154294415,
+        "population": 304
+      }
+    },
+    {
+      "artworkId": 5569,
+      "id": 2
+    },
+    {
+      "artworkId": 109819,
+      "colorfulness": 32.8709,
+      "color": {
+        "h": 56,
+        "l": 60,
+        "s": 93,
+        "percentage": 0.0008442986622087696,
+        "population": 6
+      },
+      "id": 3
+    },
+    {
+      "artworkId": 149858,
+      "title": "#1bis",
+      "colorfulness": 90.87,
+      "color": {
+        "percentage": 1,
+        "population": 3000
+      },
+      "id": 4
+    },
+    {
+      "artworkId": 109819,
+      "title": "Mymondri",
+      "colorfulness": 15.58,
+      "color": {
+        "percentage": 1,
+        "population": 6000
+      },
+      "borderColor": "#8c8f56",
+      "id": 5
+    },
+    {
+      "artworkId": 109819,
+      "title": "Mymondri",
+      "colorfulness": 15.58,
+      "color": {
+        "percentage": 1,
+        "population": 6000
+      },
+      "borderColor": "#8c8f56",
+      "id": 6
+    }
+  ]
 }
