@@ -77,20 +77,10 @@
       "artist_id": 17549,
       "artist_title": "Piet Mondrian",
       "alt_artist_ids": [],
-      "artist_ids": [
-        17549
-      ],
-      "artist_titles": [
-        "Piet Mondrian"
-      ],
-      "category_ids": [
-        "PC-11",
-        "PC-831"
-      ],
-      "category_titles": [
-        "Modern Art",
-        "Essentials"
-      ],
+      "artist_ids": [17549],
+      "artist_titles": ["Piet Mondrian"],
+      "category_ids": ["PC-11", "PC-831"],
+      "category_titles": ["Modern Art", "Essentials"],
       "term_titles": [
         "oil on canvas",
         "oil painting",
@@ -112,23 +102,12 @@
       "style_id": "TM-5981",
       "style_title": "Modernism",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-5981"
-      ],
-      "style_titles": [
-        "Modernism"
-      ],
+      "style_ids": ["TM-5981"],
+      "style_titles": ["Modernism"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-14404"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-14404"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-14404"],
+      "classification_ids": ["TM-66", "TM-9", "TM-14404"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -165,32 +144,14 @@
         "squares"
       ],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
-      "theme_titles": [
-        "Essentials"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
+      "theme_titles": ["Essentials"],
       "image_id": "25f660ee-f1db-d13b-42a5-56df97c98ba7",
       "alt_image_ids": [],
       "document_ids": [],
@@ -203,13 +164,9 @@
       "suggest_autocomplete_boosted": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1957.307"
-          ],
+          "input": ["1957.307"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
@@ -218,9 +175,7 @@
           ],
           "weight": 30736,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -305,18 +260,10 @@
       "artist_id": 35282,
       "artist_title": "Paul Klee",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35282
-      ],
-      "artist_titles": [
-        "Paul Klee"
-      ],
-      "category_ids": [
-        "PC-11"
-      ],
-      "category_titles": [
-        "Modern Art"
-      ],
+      "artist_ids": [35282],
+      "artist_titles": ["Paul Klee"],
+      "category_ids": ["PC-11"],
+      "category_titles": ["Modern Art"],
       "term_titles": [
         "oil on canvas",
         "painting",
@@ -329,15 +276,8 @@
       "style_titles": [],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -367,24 +307,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1994.545"
-          ],
+          "input": ["1994.545"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Exotics"
-          ],
+          "input": ["Exotics"],
           "weight": 2429,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -469,12 +401,8 @@
       "artist_id": 35282,
       "artist_title": "Paul Klee",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35282
-      ],
-      "artist_titles": [
-        "Paul Klee"
-      ],
+      "artist_ids": [35282],
+      "artist_titles": ["Paul Klee"],
       "category_ids": [],
       "category_titles": [],
       "term_titles": [
@@ -489,15 +417,8 @@
       "style_titles": [],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -527,24 +448,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1996.393"
-          ],
+          "input": ["1996.393"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Death in the Garden (Legend)"
-          ],
+          "input": ["Death in the Garden (Legend)"],
           "weight": 3208,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -629,18 +542,10 @@
       "artist_id": 36083,
       "artist_title": "Jules Olitski",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36083
-      ],
-      "artist_titles": [
-        "Jules Olitski"
-      ],
-      "category_ids": [
-        "PC-13"
-      ],
-      "category_titles": [
-        "Prints and Drawings"
-      ],
+      "artist_ids": [36083],
+      "artist_titles": ["Jules Olitski"],
+      "category_ids": ["PC-13"],
+      "category_titles": ["Prints and Drawings"],
       "term_titles": [
         "screen printing",
         "screenprint",
@@ -655,40 +560,21 @@
       "style_titles": [],
       "classification_id": "TM-214",
       "classification_title": "screenprint",
-      "alt_classification_ids": [
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_ids": [
-        "TM-214",
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_titles": [
-        "screenprint",
-        "print",
-        "prints and drawing"
-      ],
+      "alt_classification_ids": ["TM-17", "TM-4"],
+      "classification_ids": ["TM-214", "TM-17", "TM-4"],
+      "classification_titles": ["screenprint", "print", "prints and drawing"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
       "subject_titles": [],
       "material_id": "TM-2982",
       "alt_material_ids": [],
-      "material_ids": [
-        "TM-2982"
-      ],
-      "material_titles": [
-        "paper (fiber product)"
-      ],
+      "material_ids": ["TM-2982"],
+      "material_titles": ["paper (fiber product)"],
       "technique_id": "TM-10604",
       "alt_technique_ids": [],
-      "technique_ids": [
-        "TM-10604"
-      ],
-      "technique_titles": [
-        "screen printing"
-      ],
+      "technique_ids": ["TM-10604"],
+      "technique_titles": ["screen printing"],
       "theme_titles": [],
       "image_id": "1d6354fa-6969-3b46-59cf-a9d2f9089c8c",
       "alt_image_ids": [],
@@ -701,24 +587,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1978.611b"
-          ],
+          "input": ["1978.611b"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Graphics Suite #1"
-          ],
+          "input": ["Graphics Suite #1"],
           "weight": 48,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -803,18 +681,10 @@
       "artist_id": 33371,
       "artist_title": "Josef Albers",
       "alt_artist_ids": [],
-      "artist_ids": [
-        33371
-      ],
-      "artist_titles": [
-        "Josef Albers"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
+      "artist_ids": [33371],
+      "artist_titles": ["Josef Albers"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
       "term_titles": [
         "oil on board",
         "geometric",
@@ -833,15 +703,8 @@
       "style_titles": [],
       "classification_id": "TM-2211",
       "classification_title": "oil on board",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-2211",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-2211", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on board",
         "painting",
@@ -891,24 +754,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1957.161"
-          ],
+          "input": ["1957.161"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Homage to the Square: Light Passage"
-          ],
+          "input": ["Homage to the Square: Light Passage"],
           "weight": 4175,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -993,18 +848,10 @@
       "artist_id": 36083,
       "artist_title": "Jules Olitski",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36083
-      ],
-      "artist_titles": [
-        "Jules Olitski"
-      ],
-      "category_ids": [
-        "PC-13"
-      ],
-      "category_titles": [
-        "Prints and Drawings"
-      ],
+      "artist_ids": [36083],
+      "artist_titles": ["Jules Olitski"],
+      "category_ids": ["PC-13"],
+      "category_titles": ["Prints and Drawings"],
       "term_titles": [
         "screen printing",
         "screenprint",
@@ -1019,40 +866,21 @@
       "style_titles": [],
       "classification_id": "TM-214",
       "classification_title": "screenprint",
-      "alt_classification_ids": [
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_ids": [
-        "TM-214",
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_titles": [
-        "screenprint",
-        "print",
-        "prints and drawing"
-      ],
+      "alt_classification_ids": ["TM-17", "TM-4"],
+      "classification_ids": ["TM-214", "TM-17", "TM-4"],
+      "classification_titles": ["screenprint", "print", "prints and drawing"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
       "subject_titles": [],
       "material_id": "TM-2982",
       "alt_material_ids": [],
-      "material_ids": [
-        "TM-2982"
-      ],
-      "material_titles": [
-        "paper (fiber product)"
-      ],
+      "material_ids": ["TM-2982"],
+      "material_titles": ["paper (fiber product)"],
       "technique_id": "TM-10604",
       "alt_technique_ids": [],
-      "technique_ids": [
-        "TM-10604"
-      ],
-      "technique_titles": [
-        "screen printing"
-      ],
+      "technique_ids": ["TM-10604"],
+      "technique_titles": ["screen printing"],
       "theme_titles": [],
       "image_id": "5109be4d-fe83-8ce2-bd1c-300fe7fd48f0",
       "alt_image_ids": [],
@@ -1065,24 +893,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1978.611a"
-          ],
+          "input": ["1978.611a"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Graphics Suite #1"
-          ],
+          "input": ["Graphics Suite #1"],
           "weight": 60,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -1167,20 +987,10 @@
       "artist_id": 35282,
       "artist_title": "Paul Klee",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35282
-      ],
-      "artist_titles": [
-        "Paul Klee"
-      ],
-      "category_ids": [
-        "PC-11",
-        "PC-831"
-      ],
-      "category_titles": [
-        "Modern Art",
-        "Essentials"
-      ],
+      "artist_ids": [35282],
+      "artist_titles": ["Paul Klee"],
+      "category_ids": ["PC-11", "PC-831"],
+      "category_titles": ["Modern Art", "Essentials"],
       "term_titles": [
         "oil on canvas",
         "oil paint (paint)",
@@ -1205,23 +1015,12 @@
       "style_id": "TM-5981",
       "style_title": "Modernism",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-5981"
-      ],
-      "style_titles": [
-        "Modernism"
-      ],
+      "style_ids": ["TM-5981"],
+      "style_titles": ["Modernism"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -1267,32 +1066,14 @@
         "faces"
       ],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
-      "theme_titles": [
-        "Essentials"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
+      "theme_titles": ["Essentials"],
       "image_id": "92da7102-0562-f4da-55f9-1d29828b20d7",
       "alt_image_ids": [],
       "document_ids": [],
@@ -1305,24 +1086,16 @@
       "suggest_autocomplete_boosted": "Sunset",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1981.13"
-          ],
+          "input": ["1981.13"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Sunset"
-          ],
+          "input": ["Sunset"],
           "weight": 10241,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -1407,18 +1180,10 @@
       "artist_id": 33371,
       "artist_title": "Josef Albers",
       "alt_artist_ids": [],
-      "artist_ids": [
-        33371
-      ],
-      "artist_titles": [
-        "Josef Albers"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
+      "artist_ids": [33371],
+      "artist_titles": ["Josef Albers"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
       "term_titles": [
         "painting",
         "squares",
@@ -1433,32 +1198,13 @@
       "style_titles": [],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": "TM-12654",
-      "alt_subject_ids": [
-        "TM-11842",
-        "TM-9124"
-      ],
-      "subject_ids": [
-        "TM-12654",
-        "TM-11842",
-        "TM-9124"
-      ],
-      "subject_titles": [
-        "squares",
-        "yellow (color)",
-        "geometric"
-      ],
+      "alt_subject_ids": ["TM-11842", "TM-9124"],
+      "subject_ids": ["TM-12654", "TM-11842", "TM-9124"],
+      "subject_titles": ["squares", "yellow (color)", "geometric"],
       "material_id": null,
       "alt_material_ids": [],
       "material_ids": [],
@@ -1479,24 +1225,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1962.811"
-          ],
+          "input": ["1962.811"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Homage to the Square: Yellow Signal"
-          ],
+          "input": ["Homage to the Square: Yellow Signal"],
           "weight": 835,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -1581,18 +1319,10 @@
       "artist_id": 35235,
       "artist_title": "Ellsworth Kelly",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35235
-      ],
-      "artist_titles": [
-        "Ellsworth Kelly"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
+      "artist_ids": [35235],
+      "artist_titles": ["Ellsworth Kelly"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
       "term_titles": [
         "oil on canvas",
         "abstract shapes",
@@ -1609,32 +1339,16 @@
       "style_titles": [],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
         "modern and contemporary art"
       ],
       "subject_id": "TM-12708",
-      "alt_subject_ids": [
-        "TM-12710",
-        "TM-11841",
-        "TM-11845"
-      ],
-      "subject_ids": [
-        "TM-12708",
-        "TM-12710",
-        "TM-11841",
-        "TM-11845"
-      ],
+      "alt_subject_ids": ["TM-12710", "TM-11841", "TM-11845"],
+      "subject_ids": ["TM-12708", "TM-12710", "TM-11841", "TM-11845"],
       "subject_titles": [
         "abstract shapes",
         "black and white",
@@ -1661,24 +1375,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1968.606"
-          ],
+          "input": ["1968.606"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "East River"
-          ],
+          "input": ["East River"],
           "weight": 1466,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -1770,18 +1476,10 @@
       "artist_id": 20772,
       "artist_title": "Jackson Pollock",
       "alt_artist_ids": [],
-      "artist_ids": [
-        20772
-      ],
-      "artist_titles": [
-        "Jackson Pollock"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
+      "artist_ids": [20772],
+      "artist_titles": ["Jackson Pollock"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
       "term_titles": [
         "painting",
         "abstract shapes",
@@ -1794,25 +1492,13 @@
       "style_titles": [],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": "TM-12708",
       "alt_subject_ids": [],
-      "subject_ids": [
-        "TM-12708"
-      ],
-      "subject_titles": [
-        "abstract shapes"
-      ],
+      "subject_ids": ["TM-12708"],
+      "subject_titles": ["abstract shapes"],
       "material_id": null,
       "alt_material_ids": [],
       "material_ids": [],
@@ -1833,24 +1519,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1987.261"
-          ],
+          "input": ["1987.261"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "The Key"
-          ],
+          "input": ["The Key"],
           "weight": 34509,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -1935,18 +1613,10 @@
       "artist_id": 36083,
       "artist_title": "Jules Olitski",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36083
-      ],
-      "artist_titles": [
-        "Jules Olitski"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
+      "artist_ids": [36083],
+      "artist_titles": ["Jules Olitski"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
       "term_titles": [
         "painting",
         "abstract shapes",
@@ -1964,17 +1634,9 @@
       "style_titles": [],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": "TM-12708",
       "alt_subject_ids": [
         "TM-11851",
@@ -2019,24 +1681,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1964.72"
-          ],
+          "input": ["1964.72"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Born in Snovsk"
-          ],
+          "input": ["Born in Snovsk"],
           "weight": 1317,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -2121,18 +1775,9 @@
       "artist_id": 36062,
       "artist_title": "Georgia O'Keeffe",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36062
-      ],
-      "artist_titles": [
-        "Georgia O'Keeffe"
-      ],
-      "category_ids": [
-        "PC-825",
-        "PC-154",
-        "PC-827",
-        "PC-3"
-      ],
+      "artist_ids": [36062],
+      "artist_titles": ["Georgia O'Keeffe"],
+      "category_ids": ["PC-825", "PC-154", "PC-827", "PC-3"],
       "category_titles": [
         "Women artists",
         "Chicago Artists",
@@ -2150,28 +1795,13 @@
       ],
       "style_id": "TM-5981",
       "style_title": "Modernism",
-      "alt_style_ids": [
-        "TM-7539"
-      ],
-      "style_ids": [
-        "TM-5981",
-        "TM-7539"
-      ],
-      "style_titles": [
-        "Modernism",
-        "Cubism"
-      ],
+      "alt_style_ids": ["TM-7539"],
+      "style_ids": ["TM-5981", "TM-7539"],
+      "style_titles": ["Modernism", "Cubism"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -2182,17 +1812,9 @@
       "subject_ids": [],
       "subject_titles": [],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": null,
       "alt_technique_ids": [],
       "technique_ids": [],
@@ -2213,13 +1835,9 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1987.250.1"
-          ],
+          "input": ["1987.250.1"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
@@ -2306,20 +1924,10 @@
           "artist_id": 20772,
           "artist_title": "Jackson Pollock",
           "alt_artist_ids": [],
-          "artist_ids": [
-            20772
-          ],
-          "artist_titles": [
-            "Jackson Pollock"
-          ],
-          "category_ids": [
-            "PC-8",
-            "PC-831"
-          ],
-          "category_titles": [
-            "Contemporary Art",
-            "Essentials"
-          ],
+          "artist_ids": [20772],
+          "artist_titles": ["Jackson Pollock"],
+          "category_ids": ["PC-8", "PC-831"],
+          "category_titles": ["Contemporary Art", "Essentials"],
           "term_titles": [
             "painting",
             "oil painting",
@@ -2339,25 +1947,13 @@
           "style_id": "TM-12062",
           "style_title": "contemporary",
           "alt_style_ids": [],
-          "style_ids": [
-            "TM-12062"
-          ],
-          "style_titles": [
-            "contemporary"
-          ],
+          "style_ids": ["TM-12062"],
+          "style_titles": ["contemporary"],
           "classification_id": "TM-9",
           "classification_title": "painting",
-          "alt_classification_ids": [
-            "TM-155"
-          ],
-          "classification_ids": [
-            "TM-9",
-            "TM-155"
-          ],
-          "classification_titles": [
-            "painting",
-            "modern and contemporary art"
-          ],
+          "alt_classification_ids": ["TM-155"],
+          "classification_ids": ["TM-9", "TM-155"],
+          "classification_titles": ["painting", "modern and contemporary art"],
           "subject_id": "TM-11840",
           "alt_subject_ids": [
             "TM-11844",
@@ -2386,32 +1982,14 @@
             "white (color)"
           ],
           "material_id": "TM-2451",
-          "alt_material_ids": [
-            "TM-3093"
-          ],
-          "material_ids": [
-            "TM-2451",
-            "TM-3093"
-          ],
-          "material_titles": [
-            "oil paint (paint)",
-            "linen (material)"
-          ],
+          "alt_material_ids": ["TM-3093"],
+          "material_ids": ["TM-2451", "TM-3093"],
+          "material_titles": ["oil paint (paint)", "linen (material)"],
           "technique_id": "TM-4273",
-          "alt_technique_ids": [
-            "TM-3891"
-          ],
-          "technique_ids": [
-            "TM-4273",
-            "TM-3891"
-          ],
-          "technique_titles": [
-            "oil painting",
-            "painting (image making)"
-          ],
-          "theme_titles": [
-            "Essentials"
-          ],
+          "alt_technique_ids": ["TM-3891"],
+          "technique_ids": ["TM-4273", "TM-3891"],
+          "technique_titles": ["oil painting", "painting (image making)"],
+          "theme_titles": ["Essentials"],
           "image_id": "f9932dea-7999-ea96-fcab-965e027051c2",
           "alt_image_ids": [],
           "document_ids": [],
@@ -2424,24 +2002,16 @@
           "suggest_autocomplete_boosted": "Greyed Rainbow",
           "suggest_autocomplete_all": [
             {
-              "input": [
-                "1955.494"
-              ],
+              "input": ["1955.494"],
               "contexts": {
-                "groupings": [
-                  "accession"
-                ]
+                "groupings": ["accession"]
               }
             },
             {
-              "input": [
-                "Greyed Rainbow"
-              ],
+              "input": ["Greyed Rainbow"],
               "weight": 71138,
               "contexts": {
-                "groupings": [
-                  "title"
-                ]
+                "groupings": ["title"]
               }
             }
           ],
@@ -2455,9 +2025,7 @@
           ],
           "weight": 16150,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -2542,18 +2110,9 @@
       "artist_id": 36062,
       "artist_title": "Georgia O'Keeffe",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36062
-      ],
-      "artist_titles": [
-        "Georgia O'Keeffe"
-      ],
-      "category_ids": [
-        "PC-825",
-        "PC-154",
-        "PC-827",
-        "PC-3"
-      ],
+      "artist_ids": [36062],
+      "artist_titles": ["Georgia O'Keeffe"],
+      "category_ids": ["PC-825", "PC-154", "PC-827", "PC-3"],
       "category_titles": [
         "Women artists",
         "Chicago Artists",
@@ -2571,23 +2130,12 @@
       "style_id": "TM-5981",
       "style_title": "Modernism",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-5981"
-      ],
-      "style_titles": [
-        "Modernism"
-      ],
+      "style_ids": ["TM-5981"],
+      "style_titles": ["Modernism"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -2598,17 +2146,9 @@
       "subject_ids": [],
       "subject_titles": [],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": null,
       "alt_technique_ids": [],
       "technique_ids": [],
@@ -2620,38 +2160,26 @@
       ],
       "image_id": "3ee54063-9d78-ee86-0103-b477d988a93f",
       "alt_image_ids": [],
-      "document_ids": [
-        "92a80080-7a67-c6aa-5fd8-1a294240f49c"
-      ],
+      "document_ids": ["92a80080-7a67-c6aa-5fd8-1a294240f49c"],
       "sound_ids": [],
       "video_ids": [],
-      "text_ids": [
-        "92a80080-7a67-c6aa-5fd8-1a294240f49c"
-      ],
+      "text_ids": ["92a80080-7a67-c6aa-5fd8-1a294240f49c"],
       "section_ids": [],
       "section_titles": [],
       "site_ids": [],
       "suggest_autocomplete_boosted": "Blue and Green Music",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1969.835"
-          ],
+          "input": ["1969.835"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Blue and Green Music"
-          ],
+          "input": ["Blue and Green Music"],
           "weight": 66140,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -2736,19 +2264,9 @@
       "artist_id": 36062,
       "artist_title": "Georgia O'Keeffe",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36062
-      ],
-      "artist_titles": [
-        "Georgia O'Keeffe"
-      ],
-      "category_ids": [
-        "PC-825",
-        "PC-831",
-        "PC-154",
-        "PC-827",
-        "PC-3"
-      ],
+      "artist_ids": [36062],
+      "artist_titles": ["Georgia O'Keeffe"],
+      "category_ids": ["PC-825", "PC-831", "PC-154", "PC-827", "PC-3"],
       "category_titles": [
         "Women artists",
         "Essentials",
@@ -2770,61 +2288,25 @@
       "style_id": "TM-5981",
       "style_title": "Modernism",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-5981"
-      ],
-      "style_titles": [
-        "Modernism"
-      ],
+      "style_ids": ["TM-5981"],
+      "style_titles": ["Modernism"],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": "TM-8657",
-      "alt_subject_ids": [
-        "TM-12075"
-      ],
-      "subject_ids": [
-        "TM-8657",
-        "TM-12075"
-      ],
-      "subject_titles": [
-        "landscapes",
-        "Chicago"
-      ],
+      "alt_subject_ids": ["TM-12075"],
+      "subject_ids": ["TM-8657", "TM-12075"],
+      "subject_titles": ["landscapes", "Chicago"],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
       "theme_titles": [
         "Women artists",
         "Essentials",
@@ -2833,38 +2315,26 @@
       ],
       "image_id": "8fa4d1dd-b05f-eb8d-b83f-7b5dd65642db",
       "alt_image_ids": [],
-      "document_ids": [
-        "92a80080-7a67-c6aa-5fd8-1a294240f49c"
-      ],
+      "document_ids": ["92a80080-7a67-c6aa-5fd8-1a294240f49c"],
       "sound_ids": [],
       "video_ids": [],
-      "text_ids": [
-        "92a80080-7a67-c6aa-5fd8-1a294240f49c"
-      ],
+      "text_ids": ["92a80080-7a67-c6aa-5fd8-1a294240f49c"],
       "section_ids": [],
       "section_titles": [],
       "site_ids": [],
       "suggest_autocomplete_boosted": "Sky above Clouds IV",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1983.821"
-          ],
+          "input": ["1983.821"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Sky above Clouds IV"
-          ],
+          "input": ["Sky above Clouds IV"],
           "weight": 93549,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -2949,18 +2419,10 @@
       "artist_id": 35282,
       "artist_title": "Paul Klee",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35282
-      ],
-      "artist_titles": [
-        "Paul Klee"
-      ],
-      "category_ids": [
-        "PC-11"
-      ],
-      "category_titles": [
-        "Modern Art"
-      ],
+      "artist_ids": [35282],
+      "artist_titles": ["Paul Klee"],
+      "category_ids": ["PC-11"],
+      "category_titles": ["Modern Art"],
       "term_titles": [
         "painting",
         "abstract figures",
@@ -2980,17 +2442,9 @@
       "style_titles": [],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": "TM-12688",
       "alt_subject_ids": [
         "TM-10119",
@@ -3041,24 +2495,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1959.172"
-          ],
+          "input": ["1959.172"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Dancing Girl"
-          ],
+          "input": ["Dancing Girl"],
           "weight": 13047,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -3137,18 +2583,9 @@
       "artist_id": 36062,
       "artist_title": "Georgia O'Keeffe",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36062
-      ],
-      "artist_titles": [
-        "Georgia O'Keeffe"
-      ],
-      "category_ids": [
-        "PC-825",
-        "PC-154",
-        "PC-827",
-        "PC-3"
-      ],
+      "artist_ids": [36062],
+      "artist_titles": ["Georgia O'Keeffe"],
+      "category_ids": ["PC-825", "PC-154", "PC-827", "PC-3"],
       "category_titles": [
         "Women artists",
         "Chicago Artists",
@@ -3169,23 +2606,12 @@
       "style_id": "TM-5981",
       "style_title": "Modernism",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-5981"
-      ],
-      "style_titles": [
-        "Modernism"
-      ],
+      "style_ids": ["TM-5981"],
+      "style_titles": ["Modernism"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -3193,36 +2619,16 @@
       ],
       "subject_id": "TM-12218",
       "alt_subject_ids": [],
-      "subject_ids": [
-        "TM-12218"
-      ],
-      "subject_titles": [
-        "animals"
-      ],
+      "subject_ids": ["TM-12218"],
+      "subject_titles": ["animals"],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
       "theme_titles": [
         "Women artists",
         "Chicago Artists",
@@ -3230,12 +2636,8 @@
       ],
       "image_id": "9ae64560-a416-ec19-851a-c76c5ca3c64f",
       "alt_image_ids": [],
-      "document_ids": [
-        "5dada719-f228-cb9f-a9ce-7ed47d027eab"
-      ],
-      "sound_ids": [
-        "5dada719-f228-cb9f-a9ce-7ed47d027eab"
-      ],
+      "document_ids": ["5dada719-f228-cb9f-a9ce-7ed47d027eab"],
+      "sound_ids": ["5dada719-f228-cb9f-a9ce-7ed47d027eab"],
       "video_ids": [],
       "text_ids": [],
       "section_ids": [],
@@ -3244,24 +2646,16 @@
       "suggest_autocomplete_boosted": "Cow's Skull with Calico Roses",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1947.712"
-          ],
+          "input": ["1947.712"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Cow's Skull with Calico Roses"
-          ],
+          "input": ["Cow's Skull with Calico Roses"],
           "weight": 99394,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -3346,20 +2740,10 @@
       "artist_id": 35188,
       "artist_title": "Vasily Kandinsky",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35188
-      ],
-      "artist_titles": [
-        "Vasily Kandinsky"
-      ],
-      "category_ids": [
-        "PC-11",
-        "PC-831"
-      ],
-      "category_titles": [
-        "Modern Art",
-        "Essentials"
-      ],
+      "artist_ids": [35188],
+      "artist_titles": ["Vasily Kandinsky"],
+      "category_ids": ["PC-11", "PC-831"],
+      "category_titles": ["Modern Art", "Essentials"],
       "term_titles": [
         "oil on canvas",
         "oil painting",
@@ -3382,23 +2766,12 @@
       "style_id": "TM-5981",
       "style_title": "Modernism",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-5981"
-      ],
-      "style_titles": [
-        "Modernism"
-      ],
+      "style_ids": ["TM-5981"],
+      "style_titles": ["Modernism"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-14404",
-        "TM-9"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-14404",
-        "TM-9"
-      ],
+      "alt_classification_ids": ["TM-14404", "TM-9"],
+      "classification_ids": ["TM-66", "TM-14404", "TM-9"],
       "classification_titles": [
         "oil on canvas",
         "Modern Art Highlights",
@@ -3438,32 +2811,14 @@
         "cannons"
       ],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
-      "theme_titles": [
-        "Essentials"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
+      "theme_titles": ["Essentials"],
       "image_id": "9e00e226-9264-cda0-2893-685e0ca5b285",
       "alt_image_ids": [],
       "document_ids": [
@@ -3486,24 +2841,16 @@
       "suggest_autocomplete_boosted": "Improvisation No. 30 (Cannons)",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1931.511"
-          ],
+          "input": ["1931.511"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Improvisation No. 30 (Cannons)"
-          ],
+          "input": ["Improvisation No. 30 (Cannons)"],
           "weight": 44558,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -3588,22 +2935,11 @@
       "artist_id": 35235,
       "artist_title": "Ellsworth Kelly",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35235
-      ],
-      "artist_titles": [
-        "Ellsworth Kelly"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
-      "term_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "artist_ids": [35235],
+      "artist_titles": ["Ellsworth Kelly"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
+      "term_titles": ["painting", "modern and contemporary art"],
       "style_id": null,
       "style_title": null,
       "alt_style_ids": [],
@@ -3611,17 +2947,9 @@
       "style_titles": [],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
@@ -3646,24 +2974,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1999.237.1"
-          ],
+          "input": ["1999.237.1"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "The Chicago Panels"
-          ],
+          "input": ["The Chicago Panels"],
           "weight": 1359,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -3755,18 +3075,10 @@
       "artist_id": 20772,
       "artist_title": "Jackson Pollock",
       "alt_artist_ids": [],
-      "artist_ids": [
-        20772
-      ],
-      "artist_titles": [
-        "Jackson Pollock"
-      ],
-      "category_ids": [
-        "PC-13"
-      ],
-      "category_titles": [
-        "Prints and Drawings"
-      ],
+      "artist_ids": [20772],
+      "artist_titles": ["Jackson Pollock"],
+      "category_ids": ["PC-13"],
+      "category_titles": ["Prints and Drawings"],
       "term_titles": [
         "drypoint",
         "paper (fiber product)",
@@ -3780,32 +3092,17 @@
       "style_titles": [],
       "classification_id": "TM-154",
       "classification_title": "drypoint",
-      "alt_classification_ids": [
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_ids": [
-        "TM-154",
-        "TM-17",
-        "TM-4"
-      ],
-      "classification_titles": [
-        "drypoint",
-        "print",
-        "prints and drawing"
-      ],
+      "alt_classification_ids": ["TM-17", "TM-4"],
+      "classification_ids": ["TM-154", "TM-17", "TM-4"],
+      "classification_titles": ["drypoint", "print", "prints and drawing"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
       "subject_titles": [],
       "material_id": "TM-2982",
       "alt_material_ids": [],
-      "material_ids": [
-        "TM-2982"
-      ],
-      "material_titles": [
-        "paper (fiber product)"
-      ],
+      "material_ids": ["TM-2982"],
+      "material_titles": ["paper (fiber product)"],
       "technique_id": null,
       "alt_technique_ids": [],
       "technique_ids": [],
@@ -3822,24 +3119,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1969.254"
-          ],
+          "input": ["1969.254"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Untitled"
-          ],
+          "input": ["Untitled"],
           "weight": 700,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -3924,20 +3213,10 @@
       "artist_id": 35235,
       "artist_title": "Ellsworth Kelly",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35235
-      ],
-      "artist_titles": [
-        "Ellsworth Kelly"
-      ],
-      "category_ids": [
-        "PC-8",
-        "PC-831"
-      ],
-      "category_titles": [
-        "Contemporary Art",
-        "Essentials"
-      ],
+      "artist_ids": [35235],
+      "artist_titles": ["Ellsworth Kelly"],
+      "category_ids": ["PC-8", "PC-831"],
+      "category_titles": ["Contemporary Art", "Essentials"],
       "term_titles": [
         "oil on canvas",
         "oil painting",
@@ -3952,23 +3231,12 @@
       "style_id": "TM-12062",
       "style_title": "contemporary",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-12062"
-      ],
-      "style_titles": [
-        "contemporary"
-      ],
+      "style_ids": ["TM-12062"],
+      "style_titles": ["contemporary"],
       "classification_id": "TM-66",
       "classification_title": "oil on canvas",
-      "alt_classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-66",
-        "TM-9",
-        "TM-155"
-      ],
+      "alt_classification_ids": ["TM-9", "TM-155"],
+      "classification_ids": ["TM-66", "TM-9", "TM-155"],
       "classification_titles": [
         "oil on canvas",
         "painting",
@@ -3976,47 +3244,21 @@
       ],
       "subject_id": "TM-12479",
       "alt_subject_ids": [],
-      "subject_ids": [
-        "TM-12479"
-      ],
-      "subject_titles": [
-        "colors"
-      ],
+      "subject_ids": ["TM-12479"],
+      "subject_titles": ["colors"],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2451", "TM-3124"],
+      "material_titles": ["oil paint (paint)", "canvas"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
-      "theme_titles": [
-        "Essentials"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
+      "theme_titles": ["Essentials"],
       "image_id": "8b12267b-6fde-3424-281a-0cb74bb7e36a",
       "alt_image_ids": [],
-      "document_ids": [
-        "37782459-1cfa-e4cb-f50d-6b32897b4581"
-      ],
-      "sound_ids": [
-        "37782459-1cfa-e4cb-f50d-6b32897b4581"
-      ],
+      "document_ids": ["37782459-1cfa-e4cb-f50d-6b32897b4581"],
+      "sound_ids": ["37782459-1cfa-e4cb-f50d-6b32897b4581"],
       "video_ids": [],
       "text_ids": [],
       "section_ids": [],
@@ -4025,24 +3267,16 @@
       "suggest_autocomplete_boosted": "Red Yellow Blue White and Black II",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "2001.157"
-          ],
+          "input": ["2001.157"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Red Yellow Blue White and Black II"
-          ],
+          "input": ["Red Yellow Blue White and Black II"],
           "weight": 10420,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -4127,20 +3361,10 @@
       "artist_id": 37052,
       "artist_title": "Cy Twombly",
       "alt_artist_ids": [],
-      "artist_ids": [
-        37052
-      ],
-      "artist_titles": [
-        "Cy Twombly"
-      ],
-      "category_ids": [
-        "PC-8",
-        "PC-831"
-      ],
-      "category_titles": [
-        "Contemporary Art",
-        "Essentials"
-      ],
+      "artist_ids": [37052],
+      "artist_titles": ["Cy Twombly"],
+      "category_ids": ["PC-8", "PC-831"],
+      "category_titles": ["Contemporary Art", "Essentials"],
       "term_titles": [
         "gestural",
         "oil painting",
@@ -4154,59 +3378,26 @@
       "style_id": "TM-12062",
       "style_title": "contemporary",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-12062"
-      ],
-      "style_titles": [
-        "contemporary"
-      ],
+      "style_ids": ["TM-12062"],
+      "style_titles": ["contemporary"],
       "classification_id": "TM-9",
       "classification_title": "painting",
       "alt_classification_ids": [],
-      "classification_ids": [
-        "TM-9"
-      ],
-      "classification_titles": [
-        "painting"
-      ],
+      "classification_ids": ["TM-9"],
+      "classification_titles": ["painting"],
       "subject_id": "TM-12250",
-      "alt_subject_ids": [
-        "TM-12249",
-        "TM-8766"
-      ],
-      "subject_ids": [
-        "TM-12250",
-        "TM-12249",
-        "TM-8766"
-      ],
-      "subject_titles": [
-        "gestural",
-        "symbolism",
-        "mythology"
-      ],
+      "alt_subject_ids": ["TM-12249", "TM-8766"],
+      "subject_ids": ["TM-12250", "TM-12249", "TM-8766"],
+      "subject_titles": ["gestural", "symbolism", "mythology"],
       "material_id": "TM-2451",
       "alt_material_ids": [],
-      "material_ids": [
-        "TM-2451"
-      ],
-      "material_titles": [
-        "oil paint (paint)"
-      ],
+      "material_ids": ["TM-2451"],
+      "material_titles": ["oil paint (paint)"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
-      "theme_titles": [
-        "Essentials"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
+      "theme_titles": ["Essentials"],
       "image_id": "bcd6b69a-80f4-6f89-d8cd-817237f8fe7e",
       "alt_image_ids": [],
       "document_ids": [],
@@ -4219,24 +3410,16 @@
       "suggest_autocomplete_boosted": "The First Part of the Return from Parnassus",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "2007.63"
-          ],
+          "input": ["2007.63"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "The First Part of the Return from Parnassus"
-          ],
+          "input": ["The First Part of the Return from Parnassus"],
           "weight": 13236,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -4321,18 +3504,10 @@
       "artist_id": 36085,
       "artist_title": "Onchi Kōshirō",
       "alt_artist_ids": [],
-      "artist_ids": [
-        36085
-      ],
-      "artist_titles": [
-        "Onchi Kōshirō"
-      ],
-      "category_ids": [
-        "PC-7"
-      ],
-      "category_titles": [
-        "Arts of Asia"
-      ],
+      "artist_ids": [36085],
+      "artist_titles": ["Onchi Kōshirō"],
+      "category_ids": ["PC-7"],
+      "category_titles": ["Arts of Asia"],
       "term_titles": [
         "woodblock print",
         "Japanese (culture or style)",
@@ -4342,28 +3517,13 @@
       "style_id": "TM-13407",
       "style_title": "Japanese (culture or style)",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-13407"
-      ],
-      "style_titles": [
-        "Japanese (culture or style)"
-      ],
+      "style_ids": ["TM-13407"],
+      "style_titles": ["Japanese (culture or style)"],
       "classification_id": "TM-402",
       "classification_title": "woodblock print",
-      "alt_classification_ids": [
-        "TM-17",
-        "TM-26"
-      ],
-      "classification_ids": [
-        "TM-402",
-        "TM-17",
-        "TM-26"
-      ],
-      "classification_titles": [
-        "woodblock print",
-        "print",
-        "asian art"
-      ],
+      "alt_classification_ids": ["TM-17", "TM-26"],
+      "classification_ids": ["TM-402", "TM-17", "TM-26"],
+      "classification_titles": ["woodblock print", "print", "asian art"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
@@ -4388,24 +3548,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1961.978"
-          ],
+          "input": ["1961.978"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Form No.15: Things Moving"
-          ],
+          "input": ["Form No.15: Things Moving"],
           "weight": 284,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -4490,18 +3642,10 @@
       "artist_id": 34007,
       "artist_title": "Thomas Cole",
       "alt_artist_ids": [],
-      "artist_ids": [
-        34007
-      ],
-      "artist_titles": [
-        "Thomas Cole"
-      ],
-      "category_ids": [
-        "PC-3"
-      ],
-      "category_titles": [
-        "Arts of the Americas"
-      ],
+      "artist_ids": [34007],
+      "artist_titles": ["Thomas Cole"],
+      "category_ids": ["PC-3"],
+      "category_titles": ["Arts of the Americas"],
       "term_titles": [
         "painting",
         "oil painting",
@@ -4518,84 +3662,44 @@
       "style_titles": [],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-2191"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-2191"
-      ],
-      "classification_titles": [
-        "painting",
-        "american arts"
-      ],
+      "alt_classification_ids": ["TM-2191"],
+      "classification_ids": ["TM-9", "TM-2191"],
+      "classification_titles": ["painting", "american arts"],
       "subject_id": "TM-8657",
       "alt_subject_ids": [],
-      "subject_ids": [
-        "TM-8657"
-      ],
-      "subject_titles": [
-        "landscapes"
-      ],
+      "subject_ids": ["TM-8657"],
+      "subject_titles": ["landscapes"],
       "material_id": "TM-2451",
-      "alt_material_ids": [
-        "TM-2601"
-      ],
-      "material_ids": [
-        "TM-2451",
-        "TM-2601"
-      ],
-      "material_titles": [
-        "oil paint (paint)",
-        "organic material"
-      ],
+      "alt_material_ids": ["TM-2601"],
+      "material_ids": ["TM-2451", "TM-2601"],
+      "material_titles": ["oil paint (paint)", "organic material"],
       "technique_id": "TM-4273",
-      "alt_technique_ids": [
-        "TM-3891"
-      ],
-      "technique_ids": [
-        "TM-4273",
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "oil painting",
-        "painting (image making)"
-      ],
+      "alt_technique_ids": ["TM-3891"],
+      "technique_ids": ["TM-4273", "TM-3891"],
+      "technique_titles": ["oil painting", "painting (image making)"],
       "theme_titles": [],
       "image_id": "18092196-50ae-3ff1-9205-1b3110e966c3",
       "alt_image_ids": [],
-      "document_ids": [
-        "f85bee6b-d18b-5577-a9e6-f429421b4654"
-      ],
+      "document_ids": ["f85bee6b-d18b-5577-a9e6-f429421b4654"],
       "sound_ids": [],
       "video_ids": [],
-      "text_ids": [
-        "f85bee6b-d18b-5577-a9e6-f429421b4654"
-      ],
+      "text_ids": ["f85bee6b-d18b-5577-a9e6-f429421b4654"],
       "section_ids": [],
       "section_titles": [],
       "site_ids": [],
       "suggest_autocomplete_boosted": "Distant View of Niagara Falls",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1946.396"
-          ],
+          "input": ["1946.396"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Distant View of Niagara Falls"
-          ],
+          "input": ["Distant View of Niagara Falls"],
           "weight": 59923,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -4680,18 +3784,9 @@
       "artist_id": 44708,
       "artist_title": "Alma Thomas",
       "alt_artist_ids": [],
-      "artist_ids": [
-        44708
-      ],
-      "artist_titles": [
-        "Alma Thomas"
-      ],
-      "category_ids": [
-        "PC-8",
-        "PC-142",
-        "PC-825",
-        "PC-830"
-      ],
+      "artist_ids": [44708],
+      "artist_titles": ["Alma Thomas"],
+      "category_ids": ["PC-8", "PC-142", "PC-825", "PC-830"],
       "category_titles": [
         "Contemporary Art",
         "African American artists",
@@ -4714,32 +3809,15 @@
       "style_id": "TM-12062",
       "style_title": "contemporary",
       "alt_style_ids": [],
-      "style_ids": [
-        "TM-12062"
-      ],
-      "style_titles": [
-        "contemporary"
-      ],
+      "style_ids": ["TM-12062"],
+      "style_titles": ["contemporary"],
       "classification_id": "TM-9",
       "classification_title": "painting",
-      "alt_classification_ids": [
-        "TM-155"
-      ],
-      "classification_ids": [
-        "TM-9",
-        "TM-155"
-      ],
-      "classification_titles": [
-        "painting",
-        "modern and contemporary art"
-      ],
+      "alt_classification_ids": ["TM-155"],
+      "classification_ids": ["TM-9", "TM-155"],
+      "classification_titles": ["painting", "modern and contemporary art"],
       "subject_id": "TM-12793",
-      "alt_subject_ids": [
-        "TM-11843",
-        "TM-11851",
-        "TM-11905",
-        "TM-11842"
-      ],
+      "alt_subject_ids": ["TM-11843", "TM-11851", "TM-11905", "TM-11842"],
       "subject_ids": [
         "TM-12793",
         "TM-11843",
@@ -4755,25 +3833,13 @@
         "yellow (color)"
       ],
       "material_id": "TM-2407",
-      "alt_material_ids": [
-        "TM-3124"
-      ],
-      "material_ids": [
-        "TM-2407",
-        "TM-3124"
-      ],
-      "material_titles": [
-        "acrylic paint",
-        "canvas"
-      ],
+      "alt_material_ids": ["TM-3124"],
+      "material_ids": ["TM-2407", "TM-3124"],
+      "material_titles": ["acrylic paint", "canvas"],
       "technique_id": "TM-3891",
       "alt_technique_ids": [],
-      "technique_ids": [
-        "TM-3891"
-      ],
-      "technique_titles": [
-        "painting (image making)"
-      ],
+      "technique_ids": ["TM-3891"],
+      "technique_titles": ["painting (image making)"],
       "theme_titles": [
         "African American artists",
         "Women artists",
@@ -4781,38 +3847,26 @@
       ],
       "image_id": "e966799b-97ee-1cc6-bd2f-a94b4b8bb8f9",
       "alt_image_ids": [],
-      "document_ids": [
-        "0779b4bd-296f-671f-215e-129f2101ad07"
-      ],
+      "document_ids": ["0779b4bd-296f-671f-215e-129f2101ad07"],
       "sound_ids": [],
       "video_ids": [],
-      "text_ids": [
-        "0779b4bd-296f-671f-215e-129f2101ad07"
-      ],
+      "text_ids": ["0779b4bd-296f-671f-215e-129f2101ad07"],
       "section_ids": [],
       "section_titles": [],
       "site_ids": [],
       "suggest_autocomplete_boosted": "Starry Night and the Astronauts",
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "1994.36"
-          ],
+          "input": ["1994.36"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Starry Night and the Astronauts"
-          ],
+          "input": ["Starry Night and the Astronauts"],
           "weight": 35074,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -4897,21 +3951,11 @@
       "artist_id": 37052,
       "artist_title": "Cy Twombly",
       "alt_artist_ids": [],
-      "artist_ids": [
-        37052
-      ],
-      "artist_titles": [
-        "Cy Twombly"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
-      "term_titles": [
-        "painting"
-      ],
+      "artist_ids": [37052],
+      "artist_titles": ["Cy Twombly"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
+      "term_titles": ["painting"],
       "style_id": null,
       "style_title": null,
       "alt_style_ids": [],
@@ -4920,12 +3964,8 @@
       "classification_id": "TM-9",
       "classification_title": "painting",
       "alt_classification_ids": [],
-      "classification_ids": [
-        "TM-9"
-      ],
-      "classification_titles": [
-        "painting"
-      ],
+      "classification_ids": ["TM-9"],
+      "classification_titles": ["painting"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
@@ -4950,24 +3990,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "2015.139"
-          ],
+          "input": ["2015.139"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Untitled"
-          ],
+          "input": ["Untitled"],
           "weight": 2561,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -5052,21 +4084,11 @@
       "artist_id": 35235,
       "artist_title": "Ellsworth Kelly",
       "alt_artist_ids": [],
-      "artist_ids": [
-        35235
-      ],
-      "artist_titles": [
-        "Ellsworth Kelly"
-      ],
-      "category_ids": [
-        "PC-8"
-      ],
-      "category_titles": [
-        "Contemporary Art"
-      ],
-      "term_titles": [
-        "painting"
-      ],
+      "artist_ids": [35235],
+      "artist_titles": ["Ellsworth Kelly"],
+      "category_ids": ["PC-8"],
+      "category_titles": ["Contemporary Art"],
+      "term_titles": ["painting"],
       "style_id": null,
       "style_title": null,
       "alt_style_ids": [],
@@ -5075,12 +4097,8 @@
       "classification_id": "TM-9",
       "classification_title": "painting",
       "alt_classification_ids": [],
-      "classification_ids": [
-        "TM-9"
-      ],
-      "classification_titles": [
-        "painting"
-      ],
+      "classification_ids": ["TM-9"],
+      "classification_titles": ["painting"],
       "subject_id": null,
       "alt_subject_ids": [],
       "subject_ids": [],
@@ -5105,24 +4123,16 @@
       "site_ids": [],
       "suggest_autocomplete_all": [
         {
-          "input": [
-            "2009.51"
-          ],
+          "input": ["2009.51"],
           "contexts": {
-            "groupings": [
-              "accession"
-            ]
+            "groupings": ["accession"]
           }
         },
         {
-          "input": [
-            "Tableau Vert"
-          ],
+          "input": ["Tableau Vert"],
           "weight": 4347,
           "contexts": {
-            "groupings": [
-              "title"
-            ]
+            "groupings": ["title"]
           }
         }
       ],
@@ -5182,61 +4192,11 @@
       "id": 1,
       "artwoorkId": 130457,
       "title": "My Custom Tile",
+      "colorfulness": 32.8709,
       "color": {
-        "h": 5,
-        "l": 50,
-        "s": 59,
         "percentage": 0.032873003154294415,
         "population": 304
       }
-    },
-    {
-      "artworkId": 5569,
-      "id": 2
-    },
-    {
-      "artworkId": 109819,
-      "colorfulness": 32.8709,
-      "color": {
-        "h": 56,
-        "l": 60,
-        "s": 93,
-        "percentage": 0.0008442986622087696,
-        "population": 6
-      },
-      "id": 3
-    },
-    {
-      "artworkId": 149858,
-      "title": "#1bis",
-      "colorfulness": 90.87,
-      "color": {
-        "percentage": 1,
-        "population": 3000
-      },
-      "id": 4
-    },
-    {
-      "artworkId": 109819,
-      "title": "Mymondri",
-      "colorfulness": 15.58,
-      "color": {
-        "percentage": 1,
-        "population": 6000
-      },
-      "borderColor": "#8c8f56",
-      "id": 5
-    },
-    {
-      "artworkId": 109819,
-      "title": "Mymondri",
-      "colorfulness": 15.58,
-      "color": {
-        "percentage": 1,
-        "population": 6000
-      },
-      "borderColor": "#8c8f56",
-      "id": 6
     }
   ]
 }
